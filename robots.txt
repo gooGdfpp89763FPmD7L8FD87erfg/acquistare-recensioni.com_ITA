@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /grazie.html
+
+Sitemap: https://acquistare-recensioni.com/sitemap.xml
